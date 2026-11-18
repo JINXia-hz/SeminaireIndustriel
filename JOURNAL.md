@@ -4,8 +4,8 @@
 > It is graded on honesty and insight, not on how well everything went.
 > Failures, surprises and "the agent did something stupid" moments are the most valuable content.
 
-**Pair:** <!-- Name 1 / Name 2 -->.
-**Repository:** <!-- https://github.com/... -->
+**Pair:** <!-- JIN Xia -->.
+**Repository:** <!-- https://github.com/JINXia-hz/SeminaireIndustriel -->
 
 ---
 
